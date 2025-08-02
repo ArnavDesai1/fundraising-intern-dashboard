@@ -8,28 +8,32 @@ A beautiful Flutter mobile application for fundraising interns to track progress
 ## 📱 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" alt="Login Screen" width="300">
+
 *Clean authentication interface with toggle between Login/Sign-Up*
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" alt="Dashboard" width="300">
+
 *Personal stats, referral code, and rewards display*
 
 ### 🏆 Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+<img src="screenshots/leaderboard.png" alt="Leaderboard" width="300">
+
 *Interactive rankings with 3D podium for top performers*
 
 ### 📢 Announcements
-![Announcements](screenshots/announcements.png)
+<img src="screenshots/announcements.png" alt="Announcements" width="300">
+
 *Priority announcements system with timestamps*
 
 ## 🎯 Features
 
-- **Login/Sign-Up UI** - Clean authentication interface
-- **Dashboard** - Personal stats, referral code, and rewards
-- **Leaderboard** - Interactive rankings with podium display
-- **Announcements** - Priority announcements system
-- **Smooth Animations** - Beautiful transitions throughout
+- **Login/Sign-Up UI** - Clean authentication interface with smooth animations
+- **Dashboard** - Personal stats, referral code, and rewards display
+- **Leaderboard** - Interactive rankings with 3D podium display
+- **Announcements** - Priority announcements system with timestamps
+- **Smooth Animations** - Beautiful fade-in, slide-in, and scale transitions throughout
 
 ## 🚀 Getting Started
 
@@ -66,10 +70,10 @@ flutter run
 - equatable: ^2.0.5
 
 ## 📱 App Flow
-1. **Login/Sign-Up** - Toggle authentication UI with animations
+1. **Login/Sign-Up** - Toggle authentication UI with smooth animations
 2. **Dashboard** - View personal stats, referral code, and earned rewards
 3. **Leaderboard** - Check rankings with interactive 3D podium display
-4. **Announcements** - Stay updated with important news and updates
+4. **Announcements** - Stay updated with important news and priority alerts
 
 ## 🛠️ Technology Stack
 - Flutter 3.0+
@@ -79,11 +83,12 @@ flutter run
 - Custom animations and transitions
 
 ## 🎨 Design Features
-- **Gradient Backgrounds** - Beautiful color schemes throughout
+- **Gradient Backgrounds** - Beautiful color schemes throughout the app
 - **Smooth Animations** - Fade-in, slide-in, and scale animations
-- **Interactive Podium** - 3D-style podium for top performers
+- **Interactive Podium** - 3D-style podium for top 3 performers
 - **Responsive Design** - Works perfectly on different screen sizes
 - **Custom Typography** - Google Fonts (Poppins) for enhanced readability
+- **Professional UI** - Modern cards with shadows and rounded corners
 
 ## 👨‍💻 Developer
 **Arnav Desai**
