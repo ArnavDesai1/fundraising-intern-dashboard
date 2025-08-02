@@ -21,10 +21,19 @@ A beautiful Flutter mobile application for fundraising interns to track progress
 - Android device/emulator
 
 ### Installation
-git clone https://github.com/ArnavDesai1/fundraising-intern-dashboard.git
-cd fundraising-intern-dashboard
-flutter pub get
-flutter run
+### Download APK
+1. Go to [Releases](https://github.com/ArnavDesai1/fundraising-intern-dashboard/releases)
+2. Download the latest `fundraising-intern-dashboard-v1.0.apk`
+
+### Install on Android
+1. Enable "Install from Unknown Sources" in Settings
+2. Tap the downloaded APK file
+3. Follow installation prompts
+4. Open the app and enjoy!
+
+### System Requirements
+- Android 5.0 (API level 21) or higher
+- 50MB free storage space
     
 ## 📦 Dependencies
 - google_fonts: ^6.1.0
